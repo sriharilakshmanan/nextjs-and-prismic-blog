@@ -2,7 +2,7 @@
 
 This sample blog is an excellent starting point to explore [Next.js][nextjs] and [Prismic][prismic]. Get it up and running in minutes. Modify and adapt it to your liking; it's all yours!
 
-- **Demo**: [Open live demo][live-demo]
+- **Demo**: [Live Demo][live-demo]
 - **Learn more about Prismic and Next.js**: [Prismic Next.js Documentation][prismic-docs]
 
 &nbsp;
